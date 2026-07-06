@@ -6,7 +6,10 @@ https://devpost.com/software/education-for-all-3omn9r
 
 https://devpost.com/software/inclass
 
-https://devpost.com/software/sss-smart-solution-for-sceptic
+
+
+
+
 
 https://devpost.com/software/biast
 
